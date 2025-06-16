@@ -1,0 +1,10 @@
+{
+  "actions": {
+    "init": "() => void",
+    "increment": "(by: number) => void",
+    "getCount": "() => Promise<number>"
+  },
+  "state": {
+    "count": "number"
+  }
+}

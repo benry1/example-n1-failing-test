@@ -1,0 +1,14 @@
+{
+  "name": "tests-fail",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "n1 app dev",
+    "build": "n1 app build",
+    "deploy": "n1 app deploy"
+  },
+  "dependencies": {
+    "@n1xyz/nts-compiler": "latest",
+    "@n1xyz/nts-sdk": "latest",
+  }
+}

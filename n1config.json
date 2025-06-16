@@ -1,0 +1,9 @@
+{
+  "app_name": "tests-fail",
+  "author": "benry1",
+  "contracts": "contracts",
+  "build": "build",
+  "tests": "tests",
+  "utils": "utils",
+  "main": "contracts/app.ts"
+}
