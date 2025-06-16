@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@n1xyz/nts-compiler": "latest",
-    "@n1xyz/nts-sdk": "latest",
+    "@n1xyz/nts-sdk": "latest"
   }
 }
